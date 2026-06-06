@@ -14,7 +14,7 @@
 - 👯 I'm looking to collaborate on **open source projects** and **hackathons**
 - 💬 Ask me about **Java, Python, Git, or anything tech-related**
 - 📫 How to reach me: **yoniaz110@gmail.com** or [LinkedIn Link]
-- ⚡ Fun fact: **[Something interesting about you, e.g., I love solving Rubik's cubes / I built my first website at 15]**
+- ⚡ Fun fact: **I built my first website at 15,addicted to code**
 
 ---
 
